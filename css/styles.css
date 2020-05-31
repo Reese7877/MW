@@ -10234,7 +10234,7 @@ padding-bottom: 0.3rem;
   margin: 8px;
   margin-left: auto;
 }
-@media (min-width:400px){
+@media (min-width:300px){
   #mainNav {
     padding-top: 1rem;
     padding-bottom: 1rem;
